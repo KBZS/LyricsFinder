@@ -1,0 +1,5 @@
+blackstreet(no_diggity).txt
+outkast(rosa_parks).txt
+hole(doll_parts).txt
+tlc(no_scrubs).txt
+pulp(common_people).txt

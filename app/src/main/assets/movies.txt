@@ -1,0 +1,7 @@
+prince(purple_rain).txt
+roy_orbison(pretty_woman).txt
+idina_menzel(let_it_go).txt
+berlin(take_my_breath_away).txt
+celine_dion(my_heart_will_go_on).txt
+survivor(eye_of_the_tiger).txt
+ray_parker_jr(ghostbusters).txt

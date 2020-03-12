@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="primaryBlue">#4B85D1</color>
+    <color name="primaryDarkBlue">#335D94</color>
+    <color name="colorPrimaryLight">#6C8CB7</color>
+    <color name="coinGold">#E3CD4F</color>
+    <color name="lightBlue">#9FBADE</color>
+    <color name="transparent">#00FFFFFF</color>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LyricsFinder</string>
+    <string name="title_activity_game_map">Map</string>
+    <string name="netDis">Network is diabled.</string>
+    <string name="removed">removed</string>
+    <string name="gameResources">gameResources</string>
+    <string name="xp">xp</string>
+    <string name="lvl">lvl</string>
+    <string name="lyrics">lyrics</string>
+</resources>
